@@ -2,7 +2,7 @@
 //  ViewController.h
 //  muslimpro
 //
-//  Created by Student 1 on 3/2/16.
+//  Created by Student 1 on 3/3/16.
 //  Copyright © 2016 Student 1. All rights reserved.
 //
 
@@ -10,6 +10,4 @@
 
 @interface ViewController : UIViewController
 
-
 @end
-

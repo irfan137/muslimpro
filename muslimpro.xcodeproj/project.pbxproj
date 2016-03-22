@@ -9,10 +9,30 @@
 /* Begin PBXBuildFile section */
 		E7070B9E1C878F6F005FED27 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = E7070B9D1C878F6F005FED27 /* main.m */; };
 		E7070BA11C878F6F005FED27 /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = E7070BA01C878F6F005FED27 /* AppDelegate.m */; };
-		E7070BA41C878F6F005FED27 /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = E7070BA31C878F6F005FED27 /* ViewController.m */; };
 		E7070BA71C878F6F005FED27 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = E7070BA51C878F6F005FED27 /* Main.storyboard */; };
 		E7070BA91C878F6F005FED27 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = E7070BA81C878F6F005FED27 /* Assets.xcassets */; };
 		E7070BAC1C878F6F005FED27 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = E7070BAA1C878F6F005FED27 /* LaunchScreen.storyboard */; };
+		E7070BB41C879125005FED27 /* bismillah.png in Resources */ = {isa = PBXBuildFile; fileRef = E7070BB31C879125005FED27 /* bismillah.png */; };
+		E7070BB61C87922F005FED27 /* 99-names.png in Resources */ = {isa = PBXBuildFile; fileRef = E7070BB51C87922F005FED27 /* 99-names.png */; };
+		E7070BBB1C879651005FED27 /* surah.jpg in Resources */ = {isa = PBXBuildFile; fileRef = E7070BB71C879651005FED27 /* surah.jpg */; };
+		E7070BBC1C879651005FED27 /* cards.jpg in Resources */ = {isa = PBXBuildFile; fileRef = E7070BB81C879651005FED27 /* cards.jpg */; };
+		E7070BBD1C879651005FED27 /* namaz.png in Resources */ = {isa = PBXBuildFile; fileRef = E7070BB91C879651005FED27 /* namaz.png */; };
+		E7070BBE1C879651005FED27 /* namz tariqa.jpg in Resources */ = {isa = PBXBuildFile; fileRef = E7070BBA1C879651005FED27 /* namz tariqa.jpg */; };
+		E7070BC21C879680005FED27 /* nikha.jpg in Resources */ = {isa = PBXBuildFile; fileRef = E7070BBF1C879680005FED27 /* nikha.jpg */; };
+		E7070BC31C879680005FED27 /* duas.jpg in Resources */ = {isa = PBXBuildFile; fileRef = E7070BC01C879680005FED27 /* duas.jpg */; };
+		E7070BC41C879680005FED27 /* quran.jpg in Resources */ = {isa = PBXBuildFile; fileRef = E7070BC11C879680005FED27 /* quran.jpg */; };
+		E7070BC61C879882005FED27 /* kalma.jpg in Resources */ = {isa = PBXBuildFile; fileRef = E7070BC51C879882005FED27 /* kalma.jpg */; };
+		E7070BC81C879E06005FED27 /* dua.jpg in Resources */ = {isa = PBXBuildFile; fileRef = E7070BC71C879E06005FED27 /* dua.jpg */; };
+		E7070BCA1C87A61C005FED27 /* qibla.jpg in Resources */ = {isa = PBXBuildFile; fileRef = E7070BC91C87A61C005FED27 /* qibla.jpg */; };
+		E7070BCD1C87A780005FED27 /* male.png in Resources */ = {isa = PBXBuildFile; fileRef = E7070BCB1C87A780005FED27 /* male.png */; };
+		E7070BCE1C87A780005FED27 /* female.png in Resources */ = {isa = PBXBuildFile; fileRef = E7070BCC1C87A780005FED27 /* female.png */; };
+		E7070BD01C87A799005FED27 /* web.png in Resources */ = {isa = PBXBuildFile; fileRef = E7070BCF1C87A799005FED27 /* web.png */; };
+		E78DDFAF1C87DF84001C1590 /* webViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = E78DDFAE1C87DF84001C1590 /* webViewController.m */; };
+		E7E744E81C95052A005B1FB5 /* TableViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = E7E744E71C950529005B1FB5 /* TableViewController.m */; };
+		E7F5654C1C88C49100F78C15 /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = E7F5654B1C88C49100F78C15 /* ViewController.m */; };
+		E7FD8F9A1C95FD2400B3AD20 /* cardCollectionViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = E7FD8F991C95FD2400B3AD20 /* cardCollectionViewController.m */; };
+		E7FD8FA01C960AB100B3AD20 /* CollectionViewCell.m in Sources */ = {isa = PBXBuildFile; fileRef = E7FD8F9F1C960AB100B3AD20 /* CollectionViewCell.m */; };
+		E7FD8FA21C961C2700B3AD20 /* MapKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = E7FD8FA11C961C2700B3AD20 /* MapKit.framework */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -20,12 +40,36 @@
 		E7070B9D1C878F6F005FED27 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
 		E7070B9F1C878F6F005FED27 /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
 		E7070BA01C878F6F005FED27 /* AppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = AppDelegate.m; sourceTree = "<group>"; };
-		E7070BA21C878F6F005FED27 /* ViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = ViewController.h; sourceTree = "<group>"; };
-		E7070BA31C878F6F005FED27 /* ViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = ViewController.m; sourceTree = "<group>"; };
 		E7070BA61C878F6F005FED27 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
 		E7070BA81C878F6F005FED27 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		E7070BAB1C878F6F005FED27 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		E7070BAD1C878F6F005FED27 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		E7070BB31C879125005FED27 /* bismillah.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = bismillah.png; sourceTree = "<group>"; };
+		E7070BB51C87922F005FED27 /* 99-names.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "99-names.png"; sourceTree = "<group>"; };
+		E7070BB71C879651005FED27 /* surah.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = surah.jpg; sourceTree = "<group>"; };
+		E7070BB81C879651005FED27 /* cards.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = cards.jpg; sourceTree = "<group>"; };
+		E7070BB91C879651005FED27 /* namaz.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = namaz.png; sourceTree = "<group>"; };
+		E7070BBA1C879651005FED27 /* namz tariqa.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "namz tariqa.jpg"; sourceTree = "<group>"; };
+		E7070BBF1C879680005FED27 /* nikha.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = nikha.jpg; sourceTree = "<group>"; };
+		E7070BC01C879680005FED27 /* duas.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = duas.jpg; sourceTree = "<group>"; };
+		E7070BC11C879680005FED27 /* quran.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = quran.jpg; sourceTree = "<group>"; };
+		E7070BC51C879882005FED27 /* kalma.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = kalma.jpg; sourceTree = "<group>"; };
+		E7070BC71C879E06005FED27 /* dua.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = dua.jpg; sourceTree = "<group>"; };
+		E7070BC91C87A61C005FED27 /* qibla.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = qibla.jpg; sourceTree = "<group>"; };
+		E7070BCB1C87A780005FED27 /* male.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = male.png; sourceTree = "<group>"; };
+		E7070BCC1C87A780005FED27 /* female.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = female.png; sourceTree = "<group>"; };
+		E7070BCF1C87A799005FED27 /* web.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = web.png; sourceTree = "<group>"; };
+		E78DDFAD1C87DF84001C1590 /* webViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = webViewController.h; sourceTree = "<group>"; };
+		E78DDFAE1C87DF84001C1590 /* webViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = webViewController.m; sourceTree = "<group>"; };
+		E7E744E61C950529005B1FB5 /* TableViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = TableViewController.h; sourceTree = "<group>"; };
+		E7E744E71C950529005B1FB5 /* TableViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = TableViewController.m; sourceTree = "<group>"; };
+		E7F5654A1C88C49100F78C15 /* ViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ViewController.h; sourceTree = "<group>"; };
+		E7F5654B1C88C49100F78C15 /* ViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ViewController.m; sourceTree = "<group>"; };
+		E7FD8F981C95FD2400B3AD20 /* cardCollectionViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = cardCollectionViewController.h; sourceTree = "<group>"; };
+		E7FD8F991C95FD2400B3AD20 /* cardCollectionViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = cardCollectionViewController.m; sourceTree = "<group>"; };
+		E7FD8F9E1C960AB100B3AD20 /* CollectionViewCell.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = CollectionViewCell.h; sourceTree = "<group>"; };
+		E7FD8F9F1C960AB100B3AD20 /* CollectionViewCell.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = CollectionViewCell.m; sourceTree = "<group>"; };
+		E7FD8FA11C961C2700B3AD20 /* MapKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = MapKit.framework; path = System/Library/Frameworks/MapKit.framework; sourceTree = SDKROOT; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -33,6 +77,7 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				E7FD8FA21C961C2700B3AD20 /* MapKit.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -42,6 +87,7 @@
 		E7070B901C878F6F005FED27 = {
 			isa = PBXGroup;
 			children = (
+				E7FD8FA11C961C2700B3AD20 /* MapKit.framework */,
 				E7070B9B1C878F6F005FED27 /* muslimpro */,
 				E7070B9A1C878F6F005FED27 /* Products */,
 			);
@@ -60,9 +106,17 @@
 			children = (
 				E7070B9F1C878F6F005FED27 /* AppDelegate.h */,
 				E7070BA01C878F6F005FED27 /* AppDelegate.m */,
-				E7070BA21C878F6F005FED27 /* ViewController.h */,
-				E7070BA31C878F6F005FED27 /* ViewController.m */,
 				E7070BA51C878F6F005FED27 /* Main.storyboard */,
+				E7FD8F981C95FD2400B3AD20 /* cardCollectionViewController.h */,
+				E7FD8F991C95FD2400B3AD20 /* cardCollectionViewController.m */,
+				E7FD8F9E1C960AB100B3AD20 /* CollectionViewCell.h */,
+				E7FD8F9F1C960AB100B3AD20 /* CollectionViewCell.m */,
+				E7E744E61C950529005B1FB5 /* TableViewController.h */,
+				E7E744E71C950529005B1FB5 /* TableViewController.m */,
+				E7F5654A1C88C49100F78C15 /* ViewController.h */,
+				E7F5654B1C88C49100F78C15 /* ViewController.m */,
+				E78DDFAD1C87DF84001C1590 /* webViewController.h */,
+				E78DDFAE1C87DF84001C1590 /* webViewController.m */,
 				E7070BA81C878F6F005FED27 /* Assets.xcassets */,
 				E7070BAA1C878F6F005FED27 /* LaunchScreen.storyboard */,
 				E7070BAD1C878F6F005FED27 /* Info.plist */,
@@ -74,6 +128,21 @@
 		E7070B9C1C878F6F005FED27 /* Supporting Files */ = {
 			isa = PBXGroup;
 			children = (
+				E7070BC51C879882005FED27 /* kalma.jpg */,
+				E7070BBF1C879680005FED27 /* nikha.jpg */,
+				E7070BCF1C87A799005FED27 /* web.png */,
+				E7070BC01C879680005FED27 /* duas.jpg */,
+				E7070BC91C87A61C005FED27 /* qibla.jpg */,
+				E7070BC11C879680005FED27 /* quran.jpg */,
+				E7070BB71C879651005FED27 /* surah.jpg */,
+				E7070BB81C879651005FED27 /* cards.jpg */,
+				E7070BB91C879651005FED27 /* namaz.png */,
+				E7070BCB1C87A780005FED27 /* male.png */,
+				E7070BCC1C87A780005FED27 /* female.png */,
+				E7070BBA1C879651005FED27 /* namz tariqa.jpg */,
+				E7070BC71C879E06005FED27 /* dua.jpg */,
+				E7070BB51C87922F005FED27 /* 99-names.png */,
+				E7070BB31C879125005FED27 /* bismillah.png */,
 				E7070B9D1C878F6F005FED27 /* main.m */,
 			);
 			name = "Supporting Files";
@@ -110,6 +179,11 @@
 				TargetAttributes = {
 					E7070B981C878F6F005FED27 = {
 						CreatedOnToolsVersion = 7.2;
+						SystemCapabilities = {
+							com.apple.Maps.iOS = {
+								enabled = 1;
+							};
+						};
 					};
 				};
 			};
@@ -136,9 +210,24 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				E7070BB61C87922F005FED27 /* 99-names.png in Resources */,
+				E7070BC21C879680005FED27 /* nikha.jpg in Resources */,
+				E7070BBE1C879651005FED27 /* namz tariqa.jpg in Resources */,
+				E7070BBB1C879651005FED27 /* surah.jpg in Resources */,
+				E7070BC81C879E06005FED27 /* dua.jpg in Resources */,
+				E7070BC61C879882005FED27 /* kalma.jpg in Resources */,
 				E7070BAC1C878F6F005FED27 /* LaunchScreen.storyboard in Resources */,
+				E7070BBD1C879651005FED27 /* namaz.png in Resources */,
+				E7070BB41C879125005FED27 /* bismillah.png in Resources */,
+				E7070BBC1C879651005FED27 /* cards.jpg in Resources */,
+				E7070BCD1C87A780005FED27 /* male.png in Resources */,
+				E7070BC31C879680005FED27 /* duas.jpg in Resources */,
+				E7070BD01C87A799005FED27 /* web.png in Resources */,
+				E7070BCE1C87A780005FED27 /* female.png in Resources */,
 				E7070BA91C878F6F005FED27 /* Assets.xcassets in Resources */,
+				E7070BCA1C87A61C005FED27 /* qibla.jpg in Resources */,
 				E7070BA71C878F6F005FED27 /* Main.storyboard in Resources */,
+				E7070BC41C879680005FED27 /* quran.jpg in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -149,8 +238,12 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				E7070BA41C878F6F005FED27 /* ViewController.m in Sources */,
+				E7FD8F9A1C95FD2400B3AD20 /* cardCollectionViewController.m in Sources */,
+				E78DDFAF1C87DF84001C1590 /* webViewController.m in Sources */,
 				E7070BA11C878F6F005FED27 /* AppDelegate.m in Sources */,
+				E7F5654C1C88C49100F78C15 /* ViewController.m in Sources */,
+				E7E744E81C95052A005B1FB5 /* TableViewController.m in Sources */,
+				E7FD8FA01C960AB100B3AD20 /* CollectionViewCell.m in Sources */,
 				E7070B9E1C878F6F005FED27 /* main.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -298,6 +391,7 @@
 				E7070BB21C878F6F005FED27 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
